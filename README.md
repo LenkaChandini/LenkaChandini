@@ -28,17 +28,6 @@ Final-year **B.Tech student in Computer Science and Bioscience (CSBS)** with **1
 
 ---
 
-## 📜 Certifications  
-- **Bioinformatics: Algorithms and Applications (NPTEL)**  
-  *01/2025 – 04/2025*  
-  Covered sequence analysis, genomics, and biological data interpretation.  
-
-- **Data Structures and Algorithms using C (CodeTantra)**  
-  *09/2023 – 03/2024*  
-  Focused on arrays, linked lists, stacks, queues, trees, recursion, sorting, searching, and dynamic programming.  
-
----
-
 ## 🎓 Education  
 **B.Tech in Computer Science and Bioscience (CSBS)**  
 Centurion University of Technology and Management, Vizianagaram  
@@ -51,11 +40,6 @@ Centurion University of Technology and Management, Vizianagaram
 ![PyBioMed](https://img.shields.io/badge/PyBioMed-Library-blue?style=flat-square)  
 Updated library for modern Python compatibility.  
 🔗 [View Repository](https://github.com/LenkaChandini/PyBioMed)  
-
----
-
-## 💡 Training / Courses  
-- **Bioinformatics for Drug Discovery** – Molecular modeling & drug discovery techniques.  
 
 ---
 
@@ -72,17 +56,6 @@ Updated library for modern Python compatibility.
 - 👗 **CelebStyle: A Myntra-Inspired Fashion Web Prototype**  
   - Responsive frontend (HTML, CSS, JavaScript).  
   - Designed celebrity-inspired outfit browsing.  
-
-- 🌱 **Crop Recommendation System**  
-  - ML-based model for optimal crop selection using Python.  
-
----
-
-## 💼 Work Experience  
-**Intern – CognoRise Infotech** *(July 2024 – August 2024)*  
-- Worked on ML projects in **data analysis & predictive modeling**.  
-- Hands-on experience with **NLP and AI tools**.  
-
 ---
 
 ## 🛠️ Skills & Tools  
